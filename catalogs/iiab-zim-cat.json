@@ -29,7 +29,7 @@
     "articleCount": "108",
     "mediaCount": "1606",
     "size": "12836",
-    "url": "osm-tiles/osm_central_america_z11-z14_2019.mbtileshttp://med.iiab.me/downloads/",
+    "url": "https://iiab.sfo2.digitaloceanspaces.com/zims/basic_elecricity_en_all_min_2020-11.zim",
     "name": "basic_elecricity_en_all_min",
     "flavour": ""
   },
@@ -46,7 +46,7 @@
     "articleCount": "10",
     "mediaCount": "1606",
     "size": "12703",
-    "url": "http://med.iiab.me/downloads/zims/basic_elecricity_fr_all_min_2020-11.zim",
+    "url": "https://iiab.sfo2.digitaloceanspaces.com/zims/basic_elecricity_fr_all_min_2020-11.zim",
     "name": "basic_elecricity_fr_all_min",
     "flavour": ""
   },
