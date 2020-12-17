@@ -1,0 +1,19 @@
+{
+  "d55c4146-169a-882b-8d7e-a30300c86da3": {
+    "path": "../library/zims/content/nih_rarediseases_en_all_maxi_2020-12.zim",
+    "title": "NIH Genetic and Rare Diseases",
+    "description": "NIH GARD Compendium of more than 6000 articles on Genetic and Rare Diseases. Includes a glossary and Spanish translations.",
+    "language": "eng",
+    "creator": "GARD",
+    "publisher": "Internet in a Box",
+    "tags": "Medical Reference;_category:medical;_pictures:yes;_videos:no;_details:yes;_ftindex:yes;_ftindex:yes",
+    "faviconMimeType": "image/png",
+    "date": "2020-12-17",
+    "articleCount": "9139",
+    "mediaCount": "611",
+    "size": "79938",
+    "url": "http://med.iiab.me/downloads/zims/nih_rarediseases_en_all_maxi_2020-12.zim",
+    "name": "nih_rarediseases_en_all",
+    "flavour": "_maxi"
+  }
+}
