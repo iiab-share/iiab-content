@@ -16,6 +16,23 @@
     "name": "basic_elecricity_en_all_min",
     "flavour": ""
   },
+  "6803b18b-cefa-e85c-220e-8189aaf48970": {
+    "path": "../library/zims/content/basic_elecricity_fr_all_min_2020-11.zim",
+    "title": "Électricité de base",
+    "description": "Courant continu et alternatif, mesures, sécurité - Avec nos excuses pour les erreurs de traduction de Google",
+    "language": "fr",
+    "creator": "Anthony R. Kuphaldt",
+    "publisher": "Internet in a Box",
+    "tags": "Learning Materials;_category:high_shcool;_pictures:yes;_videos:no;_details:yes;_ftindex:yes;_ftindex:yes",
+    "faviconMimeType": "image/png",
+    "date": "2020-11-20",
+    "articleCount": "10",
+    "mediaCount": "1606",
+    "size": "12703",
+    "url": "https://iiab.sfo2.digitaloceanspaces.com/zims/basic_elecricity_fr_all_min_2020-11.zim",
+    "name": "basic_elecricity_fr_all_min",
+    "flavour": ""
+  },
   "4e6fd535-6e57-4658-3203-e2a59da99036": {
     "path": "../library/zims/content/statpearls_en_all_maxi_2020-11.zim",
     "title": "StatPearls",
