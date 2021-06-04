@@ -644,7 +644,7 @@
       "rating": "0.0",
       "age_range": "young adult, adult",
       "zip_ftp_url": "",
-      "module_id": "999",
+      "module_id": "IIAB100",
       "is_hidden": "No",
       "moddir": "en-computer_videos",
       "category": "educational,technical",
@@ -662,5 +662,28 @@
       "prereq_id": null,
       "zip_http_url": "",
       "file_count": "12"
+    },
+    {
+      "rating": "0.0",
+      "age_range": "young adult, adult",
+      "zip_ftp_url": "",
+      "module_id": "IIAB101",
+      "is_hidden": "No",
+      "moddir": "en-stanford_em",
+      "category": "educational,technical",
+      "title": "Stanford Emergency Medicine Videos",
+      "prereq_id": "",
+      "version": "1.0",
+      "ksize": "1027",
+      "logo_url": null,
+      "type": "html",
+      "description": "A collection of Emergency Medicine training videos from the Stanford School of Medicine.",
+      "index_mod_sample_url": null,
+      "source_url": "",
+      "rsync_url": "rsync://medbox.iiab.me/modules/en-stanford_em",
+      "lang": "en",
+      "prereq_id": null,
+      "zip_http_url": "",
+      "file_count": "43"
     }
 ]
