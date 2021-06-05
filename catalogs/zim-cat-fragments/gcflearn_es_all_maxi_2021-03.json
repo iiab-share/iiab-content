@@ -1,0 +1,18 @@
+{
+  "3ba31783-0975-4fc8-4c2b-d73497b0289b": {
+    "path": "../library/zims/content/gcflearn_es_all_maxi_2021-03.zim",
+    "title": "GCFLearnFreeES",
+    "description": "GCFAprendeLibre (GCF Learn Free) Learn and develop the skills needed to advance in work and life.",
+    "language": "spa",
+    "creator": "GCFAprendeLibre",
+    "publisher": "Internet in a Box",
+    "flavour": "_maxi",
+    "tags": "Educatonal Materials;_pictures:yes;_videos:yes;_details:yes;_ftindex:yes;_ftindex:yes;_ftindex:yes",
+    "date": "2021-06-05",
+    "articleCount": "2370",
+    "mediaCount": "6026",
+    "size": "11363300",
+    "url": "https://s3.us-east-2.wasabisys.com/iiab-zims/gcflearn_es_all_maxi_2021-03.zim",
+    "name": "gcflearn_es_all"
+  }
+}
