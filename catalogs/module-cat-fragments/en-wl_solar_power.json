@@ -1,0 +1,23 @@
+    {
+      "rating": "0.0",
+      "age_range": "young adult, adult",
+      "zip_ftp_url": "",
+      "module_id": "IIAB105",
+      "is_hidden": "No",
+      "moddir": "en-wl_solar_power",
+      "category": "educational,technical",
+      "title": "Solar Power Education",
+      "prereq_id": null,
+      "version": "1.0",
+      "ksize": "2346128",
+      "logo_url": null,
+      "type": "html",
+      "description": "Solar Power Videos and Documents compiled by wilearn.ch for training in offline communities living in offgrid situations.",
+      "index_mod_sample_url": null,
+      "source_url": "",
+      "rsync_url": "",
+      "rclone": "wasabi-iiab-share:iiab-modules/en-wl_solar_power",
+      "lang": "en",
+      "zip_http_url": "",
+      "file_count": "57"
+    }
