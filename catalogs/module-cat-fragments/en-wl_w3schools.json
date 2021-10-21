@@ -1,0 +1,23 @@
+{
+  "rating": "0.0",
+  "age_range": "young adult, adult",
+  "zip_ftp_url": "",
+  "module_id": "IIAB",
+  "is_hidden": "No",
+  "moddir": "en-wl_w3schools",
+  "category": "educational,technical",
+  "title": "w3schools",
+  "prereq_id": null,
+  "version": "1.0",
+  "ksize": "1499360",
+  "logo_url": null,
+  "type": "html",
+  "description": "W3Schools is an educational website for learning web technologies online. Content includes tutorials and references relating to HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, React.js, SQL, Bootstrap, Sass, Node.js, jQuery, XQuery, AJAX, XML, Raspberry Pi, C++, and Java.",
+  "index_mod_sample_url": null,
+  "source_url": "",
+  "rsync_url": "",
+  "rclone": "wasabi-iiab-share:iiab-modules/en-wl_w3schools",
+  "lang": "en",
+  "zip_http_url": "",
+  "file_count": 30864
+}
