@@ -104,23 +104,6 @@
     "name": "teded_en_all",
     "flavour": ""
   },
-  "844486d7-145d-bdaf-57a0-cce924b25242": {
-    "path": "../library/zims/content/mdwiki_en_all_2021-12.zim",
-    "title": "MDWiki",
-    "description": "MDWiki is a collection of healthcare content developed from Wikipedia specifically for offline use.",
-    "language": "eng",
-    "creator": "Iiab-ref",
-    "publisher": "Kiwix",
-    "name": "mdwiki_en_all",
-    "tags": "iiab-ref:8080;_details:yes;_ftindex:yes;_pictures:yes;_videos:yes",
-    "faviconMimeType": "image/png",
-    "date": "2021-12-15",
-    "articleCount": "60855",
-    "mediaCount": "1564",
-    "size": "6937077",
-    "url": "http://med.iiab.me/downloads/zims/mdwiki_en_all_2021-12.zim",
-    "flavour": ""
-  },
   "d55c4146-169a-882b-8d7e-a30300c86da3": {
     "path": "../library/zims/content/nih_rarediseases_en_all_maxi_2020-12.zim",
     "title": "NIH Genetic and Rare Diseases",
@@ -137,23 +120,6 @@
     "url": "http://med.iiab.me/downloads/zims/nih_rarediseases_en_all_maxi_2020-12.zim",
     "name": "nih_rarediseases_en_all",
     "flavour": "_maxi"
-  },
-  "45e55cb6-c56b-25a0-db7c-f8259750fa27": {
-    "path": "../library/zims/content/mdwiki_en_all_maxi_2021-12.zim",
-    "title": "MDWiki",
-    "description": "MDWiki is a collection of healthcare content developed from Wikipedia specifically for offline use.",
-    "language": "eng",
-    "creator": "Iiab-ref",
-    "publisher": "Kiwix",
-    "name": "mdwiki_en_all_maxi",
-    "flavour": "_maxi",
-    "tags": "iiab-ref:8080;_pictures:yes;_videos:no;_details:yes;_ftindex:yes",
-    "faviconMimeType": "image/png",
-    "date": "2021-12-16",
-    "articleCount": "60856",
-    "mediaCount": "1579",
-    "size": "1644196",
-    "url": "http://med.iiab.me/downloads/zims/mdwiki_en_all_maxi_2021-12.zim"
   },
   "8323ef89-8afc-826e-4a43-3c67ad373391": {
     "path": "../library/zims/content/basic_elecricity_es_all_min_2020-11.zim",
